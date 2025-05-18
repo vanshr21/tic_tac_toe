@@ -1,5 +1,5 @@
 # Tic Tac Toe in Java
-
+<h5><i>Author: Vansh Rana</i></h5>
 This is a simple Tic Tac Toe game implemented in Java using two files: Main.java and Cls.java.
 <br/>
 <q>Cls file contain code to clear the command line.</q>
